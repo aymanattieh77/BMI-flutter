@@ -19,11 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ![bmi2](https://user-images.githubusercontent.com/87063387/223451763-57841569-8158-4bbd-9c9e-0948cfe32a54.JPG)
 
-#dependencies used in this app
+# dependencies used in this app
 
 provider
+
 animated_splash_screen
 
-#dev_dependencies used in this app
+# dev_dependencies used in this app
 
 flutter_launcher_icons
